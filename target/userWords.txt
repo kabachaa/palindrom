@@ -1,0 +1,4 @@
+Word : testing
+Reverse: gnitset
+Word : hello
+Reverse: olleh
